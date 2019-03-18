@@ -1,6 +1,6 @@
 # This is my ***REPO***
 
-##This is a subtopic
+## This is a subtopic
 
 * Topic 1
     * Item 2
